@@ -8,8 +8,9 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2600&pause=900&center=true&vCenter=true&width=800&lines=Software+Engineer;AI+%26+Data+Enthusiast;Machine+Learning+Practitioner;Flask+%7C+React+%7C+Firebase;Digital+Twin+%7C+Sensor+Analytics;Building+Useful+AI+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2600&pause=900&color=A020F0&center=true&vCenter=true&width=800&lines=Data+Scientist;Data+Analyst;Full+Stack+Developer;ML+%26+AI+Engineer;AI+Agent+Enthusiast;Transforming+Data+Into+Real-Time+AI+Systems;Smart+Workflows.+Real+Results." />
 </p>
+
 
 ---
 
@@ -28,8 +29,7 @@ that push the boundaries of modern software engineering.
 🔍 *ML, AI, Python, SQL | Smart Workflows. Real Results.*  
 
 📍 Ohio, USA  
-📧 **muskansaraf933@gmail.com**  
-🌐 *Personal Site Coming Soon!*  
+📧 **muskansaraf933@gmail.com**    
 ---
 
 # 🖥️ Skills | Technologies | Tools  
@@ -130,14 +130,6 @@ that push the boundaries of modern software engineering.
 
 ---
 
-## 🐍 Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/muskan-saraf/muskan-saraf/main/dist/github-contribution-grid-snake.svg" 
-       alt="GitHub Contribution Snake" />
-</p>
-
----
 
 # 🔗 Connect With Me
 
@@ -146,7 +138,7 @@ that push the boundaries of modern software engineering.
   <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 &nbsp;&nbsp;
-<a href="mailto:muskan@actualreality.tech">
+<a href="mailto:muskansaraf933@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 &nbsp;&nbsp;

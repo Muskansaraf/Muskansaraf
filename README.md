@@ -132,11 +132,38 @@ that push the boundaries of modern software engineering.
 
 ## 📚 Publications
 
-- [Hardware trojan detection employing machine learning, physical unclonable functions and side channel analysis](https://ieeexplore.ieee.org/abstract/document/10609912)
-- [Beyond Visualization: Building Decision Intelligence Through Iterative Dashboard Refinement](https://arxiv.org/abs/2510.27572)
-- [Quantifying Label-Induced Bias in Large Language Model Self-and Cross-Evaluations](https://arxiv.org/abs/2508.21164)
-- [Detecting Hardware Trojans: Deep Learning Solutions Combining PUF Metrics and Side-Channel Observations](https://ieeexplore.ieee.org/abstract/document/11137155)
-- [SKIN DISEASES PREDICTION USING IMAGE ANALYSIS](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jHRW0AgAAAAJ&citation_for_view=jHRW0AgAAAAJ:u-x6o8ySG0sC)
+<p align="center">
+
+<a href="https://ieeexplore.ieee.org/abstract/document/10609912">
+  <img src="https://img.shields.io/badge/Hardware%20Trojan%20Detection-6a0dad?style=for-the-badge&logo=readthedocs&logoColor=white" />
+</a>
+
+<br><br>
+
+<a href="https://arxiv.org/abs/2510.27572">
+  <img src="https://img.shields.io/badge/Decision%20Intelligence%20Dashboard-8e44ad?style=for-the-badge&logo=arxiv&logoColor=white" />
+</a>
+
+<br><br>
+
+<a href="https://arxiv.org/abs/2508.21164">
+  <img src="https://img.shields.io/badge/LLM%20Label%20Bias%20Evaluation-9b59b6?style=for-the-badge&logo=ai&logoColor=white" />
+</a>
+
+<br><br>
+
+<a href="https://ieeexplore.ieee.org/abstract/document/11137155">
+  <img src="https://img.shields.io/badge/Deep%20Learning%20PUF%20%26%20Side--Channel-7d3c98?style=for-the-badge&logo=readthedocs&logoColor=white" />
+</a>
+
+<br><br>
+
+<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jHRW0AgAAAAJ&citation_for_view=jHRW0AgAAAAJ:u-x6o8ySG0sC">
+  <img src="https://img.shields.io/badge/Skin%20Disease%20Image%20Analysis-af7ac5?style=for-the-badge&logo=google-scholar&logoColor=white" />
+</a>
+
+</p>
+
 
 ---
 

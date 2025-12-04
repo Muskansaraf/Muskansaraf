@@ -130,17 +130,16 @@ that push the boundaries of modern software engineering.
 
 ---
 
-## 📚 Publications  
-<details>
-<summary><b>Click to expand</b></summary>
+## 📚 Publications
 
-- [Hardware Trojan Detection Employing ML & Side-Channel Analysis](https://ieeexplore.ieee.org/abstract/document/10609912)  
-- [Decision Intelligence Through Iterative Dashboard Refinement](https://arxiv.org/abs/2510.27572)  
-- [Label-Induced Bias in LLM Self & Cross Evaluations](https://arxiv.org/abs/2508.21164)  
-- [Deep Learning for PUF Metrics & Side-Channel Observations](https://ieeexplore.ieee.org/abstract/document/11137155)  
-- [Skin Diseases Prediction Using Image Analysis](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jHRW0AgAAAAJ&citation_for_view=jHRW0AgAAAAJ:u-x6o8ySG0sC)  
+| Title | Link |
+|-------|------|
+| **Hardware Trojan Detection with ML & PUF Analysis** | 🔗 [Open](https://ieeexplore.ieee.org/abstract/document/10609912) |
+| **Decision Intelligence Dashboard Refinement** | 🔗 [Open](https://arxiv.org/abs/2510.27572) |
+| **LLM Label-Induced Bias Evaluation** | 🔗 [Open](https://arxiv.org/abs/2508.21164) |
+| **Deep Learning for PUF + Side-Channel Observations** | 🔗 [Open](https://ieeexplore.ieee.org/abstract/document/11137155) |
+| **Skin Disease Prediction Using Image Analysis** | 🔗 [Open](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jHRW0AgAAAAJ&citation_for_view=jHRW0AgAAAAJ:u-x6o8ySG0sC) |
 
-</details>
 
 
 

@@ -130,6 +130,15 @@ that push the boundaries of modern software engineering.
 
 ---
 
+## 📚 Publications
+
+- [Hardware trojan detection employing machine learning, physical unclonable functions and side channel analysis](https://ieeexplore.ieee.org/abstract/document/10609912)
+- [Beyond Visualization: Building Decision Intelligence Through Iterative Dashboard Refinement](https://arxiv.org/abs/2510.27572)
+- [Quantifying Label-Induced Bias in Large Language Model Self-and Cross-Evaluations](https://arxiv.org/abs/2508.21164)
+- [Detecting Hardware Trojans: Deep Learning Solutions Combining PUF Metrics and Side-Channel Observations](https://ieeexplore.ieee.org/abstract/document/11137155)
+- [SKIN DISEASES PREDICTION USING IMAGE ANALYSIS](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jHRW0AgAAAAJ&citation_for_view=jHRW0AgAAAAJ:u-x6o8ySG0sC)
+
+---
 
 # 🔗 Connect With Me
 

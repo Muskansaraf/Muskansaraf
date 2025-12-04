@@ -15,14 +15,20 @@
 
 ## 🌟 About Me
 
-I'm a **Software Engineer & AI/ML Practitioner** passionate about building  
-**AI-powered apps, digital twins, sensor intelligence dashboards, and high-impact data tools**.
+I'm a **Data Scientist, Data Analyst, and Full-Stack Developer** passionate about building  
+**real-time AI systems, intelligent applications, and data-driven products**.
 
-I work at **Actual Reality Technology**, where I build intelligent systems  
-using **Python, Flask, XGBoost, SHAP, Firebase, and React**.
+I specialize in **ML, AI, Python, and SQL**, with a strong focus on creating  
+**smart workflows, automation pipelines, and systems that turn complex data into real-world results**.
+
+I'm deeply interested in **AI Agents**, autonomous decision-making systems, and innovative tools  
+that push the boundaries of modern software engineering.
+
+🌐 *Transforming Complex Data into Real-Time AI Systems*  
+🔍 *ML, AI, Python, SQL | Smart Workflows. Real Results.*  
 
 📍 Ohio, USA  
-📧 **muskan@actualreality.tech**  
+📧 **muskansaraf933@gmail.com**  
 🌐 *Personal Site Coming Soon!*  
 ---
 

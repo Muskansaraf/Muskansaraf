@@ -145,7 +145,7 @@ that push the boundaries of modern software engineering.
 
 ---
 
-# 🚀 Featured Projects (Pinned in GitHub)
+# 🚀 Featured Projects
 
 ### 🔹 **Furnace Digital Twin (Flask + XGBoost + SHAP)**  
 → Predictive modeling, sensor anomaly detection, optimization engine.

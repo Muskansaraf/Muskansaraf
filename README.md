@@ -156,8 +156,4 @@ that push the boundaries of modern software engineering.
 <a href="mailto:muskansaraf933@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
-&nbsp;&nbsp;
-<a href="https://your-portfolio-link.com">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="45"/>
-</a>
 </p>

@@ -112,6 +112,36 @@ that push the boundaries of modern software engineering.
 </tr>
 </table>
 
+---
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+## 📊 BI & Visualization  
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="30"/>  
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Amazon%20QuickSight-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="30"/>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📚 Reporting & Dashboards  
+<p align="left">
+  <img src="https://img.shields.io/badge/Business%20Intelligence-0A66C2?style=for-the-badge&logo=googleanalytics&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Data%20Visualization-8A2BE2?style=for-the-badge&logo=python&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Insight%20Generation-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="30"/>
+</p>
+
+</td>
+</tr>
+</table>
+
+
 
 ---
 

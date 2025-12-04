@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=muskan-saraf&color=blue&style=for-the-badge">
 </p>
 
-<h1 align="center">👋 Hi, I'm <b>Muskan Saraf</b></h1>
+<h1 align="center">Hi, I'm <b>Muskan Saraf</b></h1>
 
 <!-- Typing Animation -->
 <p align="center">

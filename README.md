@@ -145,21 +145,6 @@ that push the boundaries of modern software engineering.
 
 ---
 
-# 🚀 Featured Projects
-
-### 🔹 **Furnace Digital Twin (Flask + XGBoost + SHAP)**  
-→ Predictive modeling, sensor anomaly detection, optimization engine.
-
-### 🔹 **Toledo Tech Directory**  
-→ Company directory with login system, filters, logo management, and SEO.
-
-### 🔹 **Sensor Analytics Platform**  
-→ Upload → Anomaly detection → Drift detection → Clustering → PDF reporting.
-
-### 🔹 **AI-Powered Questionnaire Analysis System**  
-→ Automated LLM analysis + email integration for client submissions.
-
----
 
 ## 📚 Publications
 

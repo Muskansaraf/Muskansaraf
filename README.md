@@ -1,175 +1,64 @@
-# 👀 Profile Views
+<h1 align="center">Hi, I'm Muskan Saraf 👋</h1>
+<h3 align="center">Data Scientist · Machine Learning · Generative AI</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muskan-saraf&color=blue&style=for-the-badge">
+  <a href="https://personal-portfolio-orcin-seven-78.vercel.app/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/muskan-saraf">LinkedIn</a> ·
+  <a href="mailto:muskansaraf933@gmail.com">muskansaraf933@gmail.com</a> ·
+  Toledo, Ohio, USA
 </p>
-
-<h1 align="center">Hi, I'm <b>Muskan Saraf</b></h1>
-
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2600&pause=900&color=A020F0&center=true&vCenter=true&width=800&lines=Data+Scientist;Data+Analyst;Full+Stack+Developer;ML+%26+AI+Engineer;AI+Agent+Enthusiast;Transforming+Data+Into+Real-Time+AI+Systems;Smart+Workflows.+Real+Results." />
-</p>
-
 
 ---
 
-## 🌟 About Me
+### About me
 
-I'm a **Data Scientist, Data Analyst, and Full-Stack Developer** passionate about building  
-**real-time AI systems, intelligent applications, and data-driven products**.
+I'm a Data Scientist at **Actual Reality Technologies** (Aug 2024 – present) with an **MS in Computer Science** from the University of Toledo, where I spent two years as a Graduate Research Assistant and a semester as a Graduate Teaching Assistant.
 
-I specialize in **ML, AI, Python, and SQL**, with a strong focus on creating  
-**smart workflows, automation pipelines, and systems that turn complex data into real-world results**.
+I build machine learning that runs in production and that people actually trust: forecasting pipelines, digital twins, optimization engines and the dashboards and explanations around them. I also work on LLM applications (RAG, agent-ready tools) and have published research on bias in LLM evaluation.
 
-I'm deeply interested in **AI Agents**, autonomous decision-making systems, and innovative tools  
-that push the boundaries of modern software engineering.
+### What I've built
 
-🌐 *Transforming Complex Data into Real-Time AI Systems*  
-🔍 *ML, AI, Python, SQL | Smart Workflows. Real Results.*  
+- **Glass manufacturing digital twin.** A 3-stage chained XGBoost pipeline on 700K+ rows and 60+ sensor features that predicts furnace behavior and throughput, deployed on Azure ML and Databricks with monitoring and retraining.
+- **What-if simulation and optimization.** Scenario comparisons against a baseline, plus Bayesian Optimization and a multi-objective engine that recommends settings to cut energy use while meeting production targets.
+- **Model serving and apps.** A Flask app serving on-demand predictions with SHAP explanations, a React analytics platform with drift (KS test, PSI) and anomaly detection, and a Streamlit energy optimization dashboard.
+- **CI/CD and MLOps.** GitHub Actions to Azure App Service with Entra ID / OIDC federated identity, Docker, MLflow experiment tracking and model registry, PySpark and Spark SQL on Databricks.
+- **Healthcare claims modeling.** Claim-denial and denial-reason models on ~10K de-identified claims, with root-cause data-quality work and patient-grouped cross-validation.
+- **LLM applications.** RAG document assistants (LangChain, ChromaDB, local LLMs), an agent-ready Python tool that combines several models to compute customer lifetime value, and a Flask app comparing OpenAI, Anthropic and Gemini.
 
-📍 Ohio, USA  
-📧 **muskansaraf933@gmail.com**    
----
+### Projects
 
-# 🖥️ Skills | Technologies | Tools  
+| Project | What it does | Stack |
+|---|---|---|
+| LLM Bias Evaluator | Compares OpenAI, Anthropic and Gemini for label-induced bias | Python, Flask, OpenAI & Anthropic APIs |
+| RAG Document Assistant | Question answering over documents with source citations | Python, LangChain, OpenAI, ChromaDB |
+| Regime-Aware Forecasting Pipeline | Finds operating regimes with K-Means, then a model and drift monitor per regime | Python, XGBoost, K-Means |
+| Production ML Analytics Platform | 700K+ rows with anomaly detection, drift monitoring and explainable AI | Python, XGBoost, Flask, React |
+| Multi-Objective Recommendation Engine | Slider-tuned priorities with ranked recommendations and live SHAP | Python, optimization, pandas |
+| Content Recommendation Engine | Hybrid collaborative + content-based recommender (matrix factorization) | Python, scikit-learn, SVD |
+| Customer Churn Prediction | End-to-end churn classifier with SHAP explanations | Python, XGBoost, SHAP |
+| Toledo Business Directory | Public searchable dashboard of Northwest Ohio companies ([toledo.directory](https://toledo.directory/)) | Python, SQL, data pipeline |
+| Deep Learning Research Suite | Multimodal hardware Trojan detection (PUF + side-channel) and medical image classifiers | Python, PyTorch, CNN, LSTM |
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
+### Skills
 
-## 🧩 Programming & Analytics
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="45"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="30"/>
-  <img src="https://skillicons.dev/icons?i=sql" height="45"/>
-</p>
+**Languages:** Python, SQL, R (basics), JavaScript, Java and C++ (working knowledge)<br>
+**ML & statistics:** XGBoost, scikit-learn, PyTorch, CNNs/RNNs/LSTMs, regression, decision trees, clustering, anomaly detection, time series forecasting, hypothesis testing, experimental design<br>
+**Optimization & simulation:** Bayesian Optimization, multi-objective optimization, SciPy, what-if scenario analysis<br>
+**Generative AI:** LLM evaluation, prompt engineering, RAG, LangChain, LangGraph (working knowledge), ChromaDB, agent-ready tools<br>
+**MLOps & cloud:** Azure ML, Databricks (PySpark, Spark SQL), MLflow, Docker, Git, GitHub Actions, CI/CD, Azure App Service, AWS (S3, EC2, Glue, Athena)<br>
+**Data engineering:** ETL pipelines, Informatica, Azure Data Lake design (Bronze/Silver/Gold), Azure Data Factory, MySQL, PostgreSQL<br>
+**Apps & BI:** Flask, React, Streamlit, REST APIs, Power BI, Tableau, Excel, SHAP & Partial Dependence Plots
 
-## 🎨 Frontend & Web  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="45"/>
-  <img src="https://skillicons.dev/icons?i=css" height="45"/>
-  <img src="https://skillicons.dev/icons?i=javascript" height="45"/>
-  <img src="https://skillicons.dev/icons?i=react" height="45"/>
-  <img src="https://img.shields.io/badge/VitePress-0C0C0C?style=for-the-badge&logo=vite&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" height="30"/>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-## 🔧 Backend & APIs 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flask" height="45"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-000000?style=for-the-badge&logo=fastapi&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="30"/>
-  <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="30"/>
-</p>
-
-## 🤖 AI, ML & Automation  
-<p align="left">
-  <img src="https://img.shields.io/badge/Classification-3C873A?style=for-the-badge&logo=python&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Regression-8A2BE2?style=for-the-badge&logo=scikitlearn&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Model%20Evaluation-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Predictive%20Analytics-0078D4?style=for-the-badge&logo=python&logoColor=white" height="30"/>
-</p>
-
-</td>
-</tr>
-</table>
-
----
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-## ☁️ Cloud & Databases  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws" height="45"/>
-  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" height="30"/>
-  <img src="https://skillicons.dev/icons?i=mysql" height="45"/>
-  <img src="https://skillicons.dev/icons?i=postgres" height="45"/>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-## 📘 Business & Collaboration  
-<p align="left">
-  <img src="https://img.shields.io/badge/KPI%20Development-0A66C2?style=for-the-badge&logo=target&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Requirements%20Gathering-4caf50?style=for-the-badge&logo=notion&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Data%20Storytelling-FF5733?style=for-the-badge&logo=googleanalytics&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Documentation-555555?style=for-the-badge&logo=readthedocs&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Cross--Functional%20Collaboration-7B1FA2?style=for-the-badge&logo=microsoft-teams&logoColor=white" height="30"/>
-</p>
-
-</td>
-</tr>
-</table>
-
----
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-## 📊 BI & Visualization  
-<p align="left">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="30"/>  
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Amazon%20QuickSight-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="30"/>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-## 📚 Reporting & Dashboards  
-<p align="left">
-  <img src="https://img.shields.io/badge/Business%20Intelligence-0A66C2?style=for-the-badge&logo=googleanalytics&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Data%20Visualization-8A2BE2?style=for-the-badge&logo=python&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Insight%20Generation-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="30"/>
-</p>
-
-</td>
-</tr>
-</table>
-
-
-
----
-
-
-## 📚 Publications
+### Publications
 
 | Title | Link |
-|-------|------|
-| **Hardware Trojan Detection with ML & PUF Analysis** | 🔗 [Open](https://ieeexplore.ieee.org/abstract/document/10609912) |
-| **Decision Intelligence Dashboard Refinement** | 🔗 [Open](https://arxiv.org/abs/2510.27572) |
-| **LLM Label-Induced Bias Evaluation** | 🔗 [Open](https://arxiv.org/abs/2508.21164) |
-| **Deep Learning for PUF + Side-Channel Observations** | 🔗 [Open](https://ieeexplore.ieee.org/abstract/document/11137155) |
-| **Skin Disease Prediction Using Image Analysis** | 🔗 [Open](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jHRW0AgAAAAJ&citation_for_view=jHRW0AgAAAAJ:u-x6o8ySG0sC) |
-
-
-
-
+|---|---|
+| Quantifying Label-Induced Bias in LLM Self- and Cross-Evaluations | [arXiv 2508.21164](https://arxiv.org/abs/2508.21164) |
+| Beyond Visualization: Decision Intelligence Through Iterative Dashboard Refinement | [arXiv 2510.27572](https://arxiv.org/abs/2510.27572) |
+| Hardware Trojan Detection with ML and PUF Analysis | [IEEE Xplore](https://ieeexplore.ieee.org/document/10609912) |
+| Deep Learning for Hardware Trojans: PUF Metrics and Side-Channel Observations | [IEEE Xplore](https://ieeexplore.ieee.org/document/11137155) |
+| Skin Disease Prediction Using Image Analysis | Google Scholar |
 
 ---
 
-# 🔗 Connect With Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/muskan-saraf" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:muskansaraf933@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
-</p>
+<p align="center">Open to Data Scientist, ML Engineer and AI Engineer roles anywhere in the US.</p>
